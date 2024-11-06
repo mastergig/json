@@ -1,0 +1,30 @@
+{
+    "title": "JIRA-1234 Tarefa de Desenvolver Solução para consumir da API",
+    "dueDate": "2024-11-08",
+    "taskStatus": "in-progress",
+    "style": {
+        "cardTheme": "#2d9bf0",
+        "fillBackground": false
+    },
+    "fields":[
+        {
+            "fillColor": "#ec7000",
+            "iconShape":"round",
+            "iconUrl": "",
+            "textColor": "#FFFFFF",
+            "tooltip":"Tarefa de Desenvolver Solução para consumir da API",
+            "value":"JIRA-1234"
+        },
+        {
+            "fillColor": "#2d9bf0",
+            "iconShape":"round",
+            "iconUrl": "https://miro.com/api/v1/user-pictures?accessToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIzNDU4NzY0NjA1Nzc1NzI0MTU5Iiwic2NvcGUiOiJlMjA5NzM1YmZhMDc2OTc5OWE4MGFmYWJjNWQ0MzA2OGQ1MWJjNmQ5OGUyODFhOGRhNDAwNDNlN2E1YjNlZmMzIiwiaWF0IjoxNzMwODg2MzMzfQ.TMOBfJtcG0-JG39W5R1jyKfdh5cC_DuCVF0QKhyckqg&etag=R3458764516215879331_1&size=180",
+            "textColor": "#000000",
+            "tooltip":"Giovanni Perillo",
+            "value":"Giovnni"
+        }
+    ],
+    "origin": "center",
+    "relativeTo": "canvas_center",
+    "linkedTo":"http://www.google.com"
+}
