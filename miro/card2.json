@@ -1,7 +1,7 @@
 {
-    "title": "JIRA-1234 Tarefa de Desenvolver Solução para consumir da API",
-    "dueDate": "2024-11-11",
-    "taskStatus": "in-progress",
+    "title": "JIRA-1235 Consumir da API para criação de Card",
+    "dueDate": "2024-11-06",
+    "taskStatus": "done",
     "style": {
         "cardTheme": "#2d9bf0",
         "fillBackground": false
@@ -12,8 +12,8 @@
             "iconShape":"round",
             "iconUrl": "",
             "textColor": "#FFFFFF",
-            "tooltip":"Tarefa de Desenvolver Solução para consumir da API",
-            "value":"JIRA-1234"
+            "tooltip":"Consumir da API para criação de Card",
+            "value":"JIRA-1235"
         },
         {
             "fillColor": "#2d9bf0",
